@@ -1,0 +1,3 @@
+Engenharia de Software;Calculo;Estatística
+Administracao;Calculo;Estatística;Matemática Discreta
+Letras;Literatura;Gramatica
